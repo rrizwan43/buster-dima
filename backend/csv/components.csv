@@ -1,0 +1,376 @@
+component_id,asset_id,component_name,component_type,description
+1,1,Impeller,Impeller,Impeller of Pump
+2,1,Casing,Casing,Casing of Pump
+3,1,Mechanical Seal,Mechanical Seal,Mechanical Seal of Pump
+4,1,Bearings,Bearings,Bearings of Pump
+5,1,Shaft,Shaft,Shaft of Pump
+6,1,Coupling,Coupling,Coupling of Pump
+7,1,Motor,Motor,Motor of Pump
+8,1,Baseplate,Baseplate,Baseplate of Pump
+9,2,Impeller,Impeller,Impeller of Pump
+10,2,Casing,Casing,Casing of Pump
+11,2,Mechanical Seal,Mechanical Seal,Mechanical Seal of Pump
+12,2,Bearings,Bearings,Bearings of Pump
+13,2,Shaft,Shaft,Shaft of Pump
+14,2,Coupling,Coupling,Coupling of Pump
+15,2,Motor,Motor,Motor of Pump
+16,2,Baseplate,Baseplate,Baseplate of Pump
+17,3,Impeller,Impeller,Impeller of Pump
+18,3,Casing,Casing,Casing of Pump
+19,3,Mechanical Seal,Mechanical Seal,Mechanical Seal of Pump
+20,3,Bearings,Bearings,Bearings of Pump
+21,3,Shaft,Shaft,Shaft of Pump
+22,3,Coupling,Coupling,Coupling of Pump
+23,3,Motor,Motor,Motor of Pump
+24,3,Baseplate,Baseplate,Baseplate of Pump
+25,4,Plates,Plates,Plates of Heat Exchanger
+26,4,Gaskets,Gaskets,Gaskets of Heat Exchanger
+27,4,Frame,Frame,Frame of Heat Exchanger
+28,4,Connections,Connections,Connections of Heat Exchanger
+29,4,Tie Bolts,Tie Bolts,Tie Bolts of Heat Exchanger
+30,5,Plates,Plates,Plates of Regenerative HX
+31,5,Gaskets,Gaskets,Gaskets of Regenerative HX
+32,5,Frame,Frame,Frame of Regenerative HX
+33,5,Connections,Connections,Connections of Regenerative HX
+34,5,Tie Bolts,Tie Bolts,Tie Bolts of Regenerative HX
+35,6,Pump,Pump,Pump of CIP System
+36,6,Spray Ball,Spray Ball,Spray Ball of CIP System
+37,6,Valve,Valve,Valve of CIP System
+38,6,Caustic Tank,Caustic Tank,Caustic Tank of CIP System
+39,6,Acid Tank,Acid Tank,Acid Tank of CIP System
+40,6,Control Panel,Control Panel,Control Panel of CIP System
+41,6,Flowmeter,Flowmeter,Flowmeter of CIP System
+42,6,Conductivity Sensor,Conductivity Sensor,Conductivity Sensor of CIP System
+43,7,Pump,Pump,Pump of CIP Skid
+44,7,Valve,Valve,Valve of CIP Skid
+45,7,Heat Exchanger,Heat Exchanger,Heat Exchanger of CIP Skid
+46,7,Chemical Dosing Pump,Chemical Dosing Pump,Chemical Dosing Pump of CIP Skid
+47,7,Control Panel,Control Panel,Control Panel of CIP Skid
+48,8,Piston,Piston,Piston of Homogenizer
+49,8,Valve Assembly,Valve Assembly,Valve Assembly of Homogenizer
+50,8,Cylinder,Cylinder,Cylinder of Homogenizer
+51,8,Seals,Seals,Seals of Homogenizer
+52,8,Pressure Gauge,Pressure Gauge,Pressure Gauge of Homogenizer
+53,8,Drive Motor,Drive Motor,Drive Motor of Homogenizer
+54,9,Plunger,Plunger,Plunger of High Pressure Pump
+55,9,Packing,Packing,Packing of High Pressure Pump
+56,9,Check Valve,Check Valve,Check Valve of High Pressure Pump
+57,9,Crankshaft,Crankshaft,Crankshaft of High Pressure Pump
+58,9,Bearings,Bearings,Bearings of High Pressure Pump
+59,9,Motor,Motor,Motor of High Pressure Pump
+60,9,Coupling,Coupling,Coupling of High Pressure Pump
+61,10,Bowl,Bowl,Bowl of Separator
+62,10,Bearings,Bearings,Bearings of Separator
+63,10,Motor,Motor,Motor of Separator
+64,10,Seals,Seals,Seals of Separator
+65,10,Inlet/Outlet Nozzle,Inlet/Outlet Nozzle,Inlet/Outlet Nozzle of Separator
+66,10,Vibration Feet,Vibration Feet,Vibration Feet of Separator
+67,11,Bowl,Bowl,Bowl of Bactofuge
+68,11,Bearings,Bearings,Bearings of Bactofuge
+69,11,Motor,Motor,Motor of Bactofuge
+70,11,Seals,Seals,Seals of Bactofuge
+71,11,Discharge Port,Discharge Port,Discharge Port of Bactofuge
+72,12,Filter Element,Filter Element,Filter Element of Filter
+73,12,Housing,Housing,Housing of Filter
+74,12,Seals,Seals,Seals of Filter
+75,12,Differential Pressure Gauge,Differential Pressure Gauge,Differential Pressure Gauge of Filter
+76,13,Membrane,Membrane,Membrane of Microfilter
+77,13,Feed Pump,Feed Pump,Feed Pump of Microfilter
+78,13,Permeate Valve,Permeate Valve,Permeate Valve of Microfilter
+79,13,CIP Valve,CIP Valve,CIP Valve of Microfilter
+80,13,Pressure Transmitter,Pressure Transmitter,Pressure Transmitter of Microfilter
+81,14,Body,Body,Body of Valve
+82,14,Seal,Seal,Seal of Valve
+83,14,Actuator,Actuator,Actuator of Valve
+84,14,Positioner,Positioner,Positioner of Valve
+85,15,Body,Body,Body of Valve
+86,15,Seal,Seal,Seal of Valve
+87,15,Actuator,Actuator,Actuator of Valve
+88,15,Positioner,Positioner,Positioner of Valve
+89,16,Motor,Motor,Motor of Compressor
+90,16,Bearings,Bearings,Bearings of Compressor
+91,16,Suction Valve,Suction Valve,Suction Valve of Compressor
+92,16,Discharge Valve,Discharge Valve,Discharge Valve of Compressor
+93,16,Oil Separator,Oil Separator,Oil Separator of Compressor
+94,16,Cooling Fan,Cooling Fan,Cooling Fan of Compressor
+95,17,Motor,Motor,Motor of Air Compressor
+96,17,Bearings,Bearings,Bearings of Air Compressor
+97,17,Intake Filter,Intake Filter,Intake Filter of Air Compressor
+98,17,Aftercooler,Aftercooler,Aftercooler of Air Compressor
+99,17,Oil Separator,Oil Separator,Oil Separator of Air Compressor
+100,17,Cooling Fan,Cooling Fan,Cooling Fan of Air Compressor
+101,18,Compressor,Compressor,Compressor of Chiller
+102,18,Evaporator,Evaporator,Evaporator of Chiller
+103,18,Condenser,Condenser,Condenser of Chiller
+104,18,Pump,Pump,Pump of Chiller
+105,18,Expansion Valve,Expansion Valve,Expansion Valve of Chiller
+106,18,Controller,Controller,Controller of Chiller
+107,19,Fan,Fan,Fan of Cooling Tower
+108,19,Fill Media,Fill Media,Fill Media of Cooling Tower
+109,19,Drift Eliminators,Drift Eliminators,Drift Eliminators of Cooling Tower
+110,19,Pump,Pump,Pump of Cooling Tower
+111,19,Gearbox,Gearbox,Gearbox of Cooling Tower
+112,19,Motor,Motor,Motor of Cooling Tower
+113,20,Shell,Shell,Shell of Tank
+114,20,Agitator,Agitator,Agitator of Tank
+115,20,Outlet Valve,Outlet Valve,Outlet Valve of Tank
+116,20,Level Sensor,Level Sensor,Level Sensor of Tank
+117,20,Manway,Manway,Manway of Tank
+118,20,Spray Ball,Spray Ball,Spray Ball of Tank
+119,21,Shell,Shell,Shell of Silo
+120,21,Agitator,Agitator,Agitator of Silo
+121,21,Level Sensor,Level Sensor,Level Sensor of Silo
+122,21,Outlet Valve,Outlet Valve,Outlet Valve of Silo
+123,21,Insulation,Insulation,Insulation of Silo
+124,22,Shell,Shell,Shell of Balance Tank
+125,22,Level Sensor,Level Sensor,Level Sensor of Balance Tank
+126,22,Outlet Valve,Outlet Valve,Outlet Valve of Balance Tank
+127,22,Float Switch,Float Switch,Float Switch of Balance Tank
+128,23,Agitator,Agitator,Agitator of Fermentation Tank
+129,23,Tank Jacket,Tank Jacket,Tank Jacket of Fermentation Tank
+130,23,Level Sensor,Level Sensor,Level Sensor of Fermentation Tank
+131,23,Sampling Valve,Sampling Valve,Sampling Valve of Fermentation Tank
+132,23,Temperature Sensor,Temperature Sensor,Temperature Sensor of Fermentation Tank
+133,24,Motor,Motor,Motor of Agitator
+134,24,Shaft,Shaft,Shaft of Agitator
+135,24,Blades,Blades,Blades of Agitator
+136,24,Seal,Seal,Seal of Agitator
+137,25,Atomizer,Atomizer,Atomizer of Spray Dryer
+138,25,Cyclone,Cyclone,Cyclone of Spray Dryer
+139,25,Fan,Fan,Fan of Spray Dryer
+140,25,Heater,Heater,Heater of Spray Dryer
+141,25,Air Filter,Air Filter,Air Filter of Spray Dryer
+142,25,Vibrator,Vibrator,Vibrator of Spray Dryer
+143,26,Blower,Blower,Blower of Fluid Bed Dryer
+144,26,Heater,Heater,Heater of Fluid Bed Dryer
+145,26,Filters,Filters,Filters of Fluid Bed Dryer
+146,26,Vibrator,Vibrator,Vibrator of Fluid Bed Dryer
+147,26,Bed Plate,Bed Plate,Bed Plate of Fluid Bed Dryer
+148,27,Heat Transfer Plates,Heat Transfer Plates,Heat Transfer Plates of Evaporator
+149,27,Pump,Pump,Pump of Evaporator
+150,27,Vapour Separator,Vapour Separator,Vapour Separator of Evaporator
+151,27,Vacuum System,Vacuum System,Vacuum System of Evaporator
+152,27,Level Control,Level Control,Level Control of Evaporator
+153,28,Agitator,Agitator,Agitator of Cheese Vat
+154,28,Heater Jacket,Heater Jacket,Heater Jacket of Cheese Vat
+155,28,Drain Valve,Drain Valve,Drain Valve of Cheese Vat
+156,28,Cutter,Cutter,Cutter of Cheese Vat
+157,28,Temperature Sensor,Temperature Sensor,Temperature Sensor of Cheese Vat
+158,29,Press Plate,Press Plate,Press Plate of Cheese Press
+159,29,Frame,Frame,Frame of Cheese Press
+160,29,Hydraulic Cylinder,Hydraulic Cylinder,Hydraulic Cylinder of Cheese Press
+161,29,Pump,Pump,Pump of Cheese Press
+162,29,Pressure Gauge,Pressure Gauge,Pressure Gauge of Cheese Press
+163,30,Filling Head,Filling Head,Filling Head of Bottle Filler
+164,30,Conveyor,Conveyor,Conveyor of Bottle Filler
+165,30,Sensors,Sensors,Sensors of Bottle Filler
+166,30,Level Probe,Level Probe,Level Probe of Bottle Filler
+167,30,Star Wheel,Star Wheel,Star Wheel of Bottle Filler
+168,30,CIP Cups,CIP Cups,CIP Cups of Bottle Filler
+169,31,Filling Head,Filling Head,Filling Head of Pouch Filler
+170,31,Sealer,Sealer,Sealer of Pouch Filler
+171,31,Sensors,Sensors,Sensors of Pouch Filler
+172,31,Pouches Feed,Pouches Feed,Pouches Feed of Pouch Filler
+173,31,Drive Motor,Drive Motor,Drive Motor of Pouch Filler
+174,32,Forming Section,Forming Section,Forming Section of Carton Filler
+175,32,Filling Head,Filling Head,Filling Head of Carton Filler
+176,32,Sealer,Sealer,Sealer of Carton Filler
+177,32,Conveyor,Conveyor,Conveyor of Carton Filler
+178,32,Sensors,Sensors,Sensors of Carton Filler
+179,33,Label Applicator,Label Applicator,Label Applicator of Labeling Machine
+180,33,Conveyor,Conveyor,Conveyor of Labeling Machine
+181,33,Sensors,Sensors,Sensors of Labeling Machine
+182,33,Print Engine,Print Engine,Print Engine of Labeling Machine
+183,34,Chuck,Chuck,Chuck of Capper
+184,34,Cap Feeder,Cap Feeder,Cap Feeder of Capper
+185,34,Torque Head,Torque Head,Torque Head of Capper
+186,34,Conveyor,Conveyor,Conveyor of Capper
+187,34,Sensors,Sensors,Sensors of Capper
+188,35,Belt,Belt,Belt of Conveyor
+189,35,Motor,Motor,Motor of Conveyor
+190,35,Rollers,Rollers,Rollers of Conveyor
+191,35,Gearbox,Gearbox,Gearbox of Conveyor
+192,35,Idlers,Idlers,Idlers of Conveyor
+193,35,Sensors,Sensors,Sensors of Conveyor
+194,36,Picker,Picker,Picker of Case Packer
+195,36,Conveyor,Conveyor,Conveyor of Case Packer
+196,36,Sensors,Sensors,Sensors of Case Packer
+197,36,Frame,Frame,Frame of Case Packer
+198,36,Pneumatics,Pneumatics,Pneumatics of Case Packer
+199,37,Robot Arm,Robot Arm,Robot Arm of Palletizer
+200,37,Gripper,Gripper,Gripper of Palletizer
+201,37,Conveyor,Conveyor,Conveyor of Palletizer
+202,37,Controller,Controller,Controller of Palletizer
+203,37,Safety Fence,Safety Fence,Safety Fence of Palletizer
+204,38,Coil,Coil,Coil of Metal Detector
+205,38,Conveyor,Conveyor,Conveyor of Metal Detector
+206,38,Rejector,Rejector,Rejector of Metal Detector
+207,38,Controller,Controller,Controller of Metal Detector
+208,39,X-Ray Tube,X-Ray Tube,X-Ray Tube of X-Ray Inspector
+209,39,Detector,Detector,Detector of X-Ray Inspector
+210,39,Conveyor,Conveyor,Conveyor of X-Ray Inspector
+211,39,Controller,Controller,Controller of X-Ray Inspector
+212,39,Rejector,Rejector,Rejector of X-Ray Inspector
+213,40,Burner,Burner,Burner of Boiler
+214,40,Tubes,Tubes,Tubes of Boiler
+215,40,Safety Valve,Safety Valve,Safety Valve of Boiler
+216,40,Feedwater Pump,Feedwater Pump,Feedwater Pump of Boiler
+217,40,Water Level Control,Water Level Control,Water Level Control of Boiler
+218,41,Body,Body,Body of Steam Trap
+219,41,Orifice,Orifice,Orifice of Steam Trap
+220,41,Strainer,Strainer,Strainer of Steam Trap
+221,42,Tank,Tank,Tank of Condensate Return
+222,42,Pump,Pump,Pump of Condensate Return
+223,42,Level Control,Level Control,Level Control of Condensate Return
+224,43,Resin Tank,Resin Tank,Resin Tank of Water Softener
+225,43,Brine Tank,Brine Tank,Brine Tank of Water Softener
+226,43,Control Valve,Control Valve,Control Valve of Water Softener
+227,44,Membrane,Membrane,Membrane of RO System
+228,44,High-Pressure Pump,High-Pressure Pump,High-Pressure Pump of RO System
+229,44,Pressure Vessel,Pressure Vessel,Pressure Vessel of RO System
+230,44,Flow Meter,Flow Meter,Flow Meter of RO System
+231,44,Valves,Valves,Valves of RO System
+232,45,Bowl,Bowl,Bowl of Centrifuge
+233,45,Bearings,Bearings,Bearings of Centrifuge
+234,45,Motor,Motor,Motor of Centrifuge
+235,45,Discharge Mechanism,Discharge Mechanism,Discharge Mechanism of Centrifuge
+236,46,Carton Magazine,Carton Magazine,Carton Magazine of Cartoner
+237,46,Forming Head,Forming Head,Forming Head of Cartoner
+238,46,Conveyor,Conveyor,Conveyor of Cartoner
+239,46,Sealer,Sealer,Sealer of Cartoner
+240,46,Sensors,Sensors,Sensors of Cartoner
+241,47,Turntable,Turntable,Turntable of Stretch Wrapper
+242,47,Film Carriage,Film Carriage,Film Carriage of Stretch Wrapper
+243,47,Mast,Mast,Mast of Stretch Wrapper
+244,47,Controller,Controller,Controller of Stretch Wrapper
+245,48,Printhead,Printhead,Printhead of Inkjet Coder
+246,48,Ink System,Ink System,Ink System of Inkjet Coder
+247,48,Controller,Controller,Controller of Inkjet Coder
+248,48,Conveyor,Conveyor,Conveyor of Inkjet Coder
+249,49,Weigh Cell,Weigh Cell,Weigh Cell of Weigher
+250,49,Conveyor,Conveyor,Conveyor of Weigher
+251,49,Controller,Controller,Controller of Weigher
+252,49,Rejector,Rejector,Rejector of Weigher
+253,50,Impeller,Impeller,Impeller of Pump
+254,50,Casing,Casing,Casing of Pump
+255,50,Mechanical Seal,Mechanical Seal,Mechanical Seal of Pump
+256,50,Bearings,Bearings,Bearings of Pump
+257,50,Shaft,Shaft,Shaft of Pump
+258,50,Coupling,Coupling,Coupling of Pump
+259,50,Motor,Motor,Motor of Pump
+260,50,Baseplate,Baseplate,Baseplate of Pump
+261,51,Impeller,Impeller,Impeller of Pump
+262,51,Casing,Casing,Casing of Pump
+263,51,Mechanical Seal,Mechanical Seal,Mechanical Seal of Pump
+264,51,Bearings,Bearings,Bearings of Pump
+265,51,Shaft,Shaft,Shaft of Pump
+266,51,Coupling,Coupling,Coupling of Pump
+267,51,Motor,Motor,Motor of Pump
+268,51,Baseplate,Baseplate,Baseplate of Pump
+269,52,Impeller,Impeller,Impeller of Pump
+270,52,Casing,Casing,Casing of Pump
+271,52,Mechanical Seal,Mechanical Seal,Mechanical Seal of Pump
+272,52,Bearings,Bearings,Bearings of Pump
+273,52,Shaft,Shaft,Shaft of Pump
+274,52,Coupling,Coupling,Coupling of Pump
+275,52,Motor,Motor,Motor of Pump
+276,52,Baseplate,Baseplate,Baseplate of Pump
+277,53,Plates,Plates,Plates of Heat Exchanger
+278,53,Gaskets,Gaskets,Gaskets of Heat Exchanger
+279,53,Frame,Frame,Frame of Heat Exchanger
+280,53,Connections,Connections,Connections of Heat Exchanger
+281,53,Tie Bolts,Tie Bolts,Tie Bolts of Heat Exchanger
+282,54,Plates,Plates,Plates of Regenerative HX
+283,54,Gaskets,Gaskets,Gaskets of Regenerative HX
+284,54,Frame,Frame,Frame of Regenerative HX
+285,54,Connections,Connections,Connections of Regenerative HX
+286,54,Tie Bolts,Tie Bolts,Tie Bolts of Regenerative HX
+287,55,Pump,Pump,Pump of CIP System
+288,55,Spray Ball,Spray Ball,Spray Ball of CIP System
+289,55,Valve,Valve,Valve of CIP System
+290,55,Caustic Tank,Caustic Tank,Caustic Tank of CIP System
+291,55,Acid Tank,Acid Tank,Acid Tank of CIP System
+292,55,Control Panel,Control Panel,Control Panel of CIP System
+293,55,Flowmeter,Flowmeter,Flowmeter of CIP System
+294,55,Conductivity Sensor,Conductivity Sensor,Conductivity Sensor of CIP System
+295,56,Pump,Pump,Pump of CIP Skid
+296,56,Valve,Valve,Valve of CIP Skid
+297,56,Heat Exchanger,Heat Exchanger,Heat Exchanger of CIP Skid
+298,56,Chemical Dosing Pump,Chemical Dosing Pump,Chemical Dosing Pump of CIP Skid
+299,56,Control Panel,Control Panel,Control Panel of CIP Skid
+300,57,Piston,Piston,Piston of Homogenizer
+301,57,Valve Assembly,Valve Assembly,Valve Assembly of Homogenizer
+302,57,Cylinder,Cylinder,Cylinder of Homogenizer
+303,57,Seals,Seals,Seals of Homogenizer
+304,57,Pressure Gauge,Pressure Gauge,Pressure Gauge of Homogenizer
+305,57,Drive Motor,Drive Motor,Drive Motor of Homogenizer
+306,58,Plunger,Plunger,Plunger of High Pressure Pump
+307,58,Packing,Packing,Packing of High Pressure Pump
+308,58,Check Valve,Check Valve,Check Valve of High Pressure Pump
+309,58,Crankshaft,Crankshaft,Crankshaft of High Pressure Pump
+310,58,Bearings,Bearings,Bearings of High Pressure Pump
+311,58,Motor,Motor,Motor of High Pressure Pump
+312,58,Coupling,Coupling,Coupling of High Pressure Pump
+313,59,Bowl,Bowl,Bowl of Separator
+314,59,Bearings,Bearings,Bearings of Separator
+315,59,Motor,Motor,Motor of Separator
+316,59,Seals,Seals,Seals of Separator
+317,59,Inlet/Outlet Nozzle,Inlet/Outlet Nozzle,Inlet/Outlet Nozzle of Separator
+318,59,Vibration Feet,Vibration Feet,Vibration Feet of Separator
+319,60,Bowl,Bowl,Bowl of Bactofuge
+320,60,Bearings,Bearings,Bearings of Bactofuge
+321,60,Motor,Motor,Motor of Bactofuge
+322,60,Seals,Seals,Seals of Bactofuge
+323,60,Discharge Port,Discharge Port,Discharge Port of Bactofuge
+324,61,Filter Element,Filter Element,Filter Element of Filter
+325,61,Housing,Housing,Housing of Filter
+326,61,Seals,Seals,Seals of Filter
+327,61,Differential Pressure Gauge,Differential Pressure Gauge,Differential Pressure Gauge of Filter
+328,62,Membrane,Membrane,Membrane of Microfilter
+329,62,Feed Pump,Feed Pump,Feed Pump of Microfilter
+330,62,Permeate Valve,Permeate Valve,Permeate Valve of Microfilter
+331,62,CIP Valve,CIP Valve,CIP Valve of Microfilter
+332,62,Pressure Transmitter,Pressure Transmitter,Pressure Transmitter of Microfilter
+333,63,Body,Body,Body of Valve
+334,63,Seal,Seal,Seal of Valve
+335,63,Actuator,Actuator,Actuator of Valve
+336,63,Positioner,Positioner,Positioner of Valve
+337,64,Body,Body,Body of Valve
+338,64,Seal,Seal,Seal of Valve
+339,64,Actuator,Actuator,Actuator of Valve
+340,64,Positioner,Positioner,Positioner of Valve
+341,65,Motor,Motor,Motor of Compressor
+342,65,Bearings,Bearings,Bearings of Compressor
+343,65,Suction Valve,Suction Valve,Suction Valve of Compressor
+344,65,Discharge Valve,Discharge Valve,Discharge Valve of Compressor
+345,65,Oil Separator,Oil Separator,Oil Separator of Compressor
+346,65,Cooling Fan,Cooling Fan,Cooling Fan of Compressor
+347,66,Motor,Motor,Motor of Air Compressor
+348,66,Bearings,Bearings,Bearings of Air Compressor
+349,66,Intake Filter,Intake Filter,Intake Filter of Air Compressor
+350,66,Aftercooler,Aftercooler,Aftercooler of Air Compressor
+351,66,Oil Separator,Oil Separator,Oil Separator of Air Compressor
+352,66,Cooling Fan,Cooling Fan,Cooling Fan of Air Compressor
+353,67,Compressor,Compressor,Compressor of Chiller
+354,67,Evaporator,Evaporator,Evaporator of Chiller
+355,67,Condenser,Condenser,Condenser of Chiller
+356,67,Pump,Pump,Pump of Chiller
+357,67,Expansion Valve,Expansion Valve,Expansion Valve of Chiller
+358,67,Controller,Controller,Controller of Chiller
+359,68,Fan,Fan,Fan of Cooling Tower
+360,68,Fill Media,Fill Media,Fill Media of Cooling Tower
+361,68,Drift Eliminators,Drift Eliminators,Drift Eliminators of Cooling Tower
+362,68,Pump,Pump,Pump of Cooling Tower
+363,68,Gearbox,Gearbox,Gearbox of Cooling Tower
+364,68,Motor,Motor,Motor of Cooling Tower
+365,69,Shell,Shell,Shell of Tank
+366,69,Agitator,Agitator,Agitator of Tank
+367,69,Outlet Valve,Outlet Valve,Outlet Valve of Tank
+368,69,Level Sensor,Level Sensor,Level Sensor of Tank
+369,69,Manway,Manway,Manway of Tank
+370,69,Spray Ball,Spray Ball,Spray Ball of Tank
+371,70,Shell,Shell,Shell of Silo
+372,70,Agitator,Agitator,Agitator of Silo
+373,70,Level Sensor,Level Sensor,Level Sensor of Silo
+374,70,Outlet Valve,Outlet Valve,Outlet Valve of Silo
+375,70,Insulation,Insulation,Insulation of Silo

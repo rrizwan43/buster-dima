@@ -1,0 +1,23 @@
+.app-header {
+  position: sticky;
+  top: 0;
+  height: 60px;
+  background: #ffffff;
+  border-bottom: 1px solid #ddd;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  padding: 0 20px;
+  z-index: 1000;
+}
+
+.logo img {
+  height: 40px;
+}
+
+.title h2 {
+  margin: 0;
+  font-weight: 500;
+}

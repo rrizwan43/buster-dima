@@ -1,0 +1,72 @@
+asset_id,asset_code,asset_type,process_area,description
+1,PUMP001,Pump,Milk Reception,Centrifugal milk transfer pump
+2,PUMP002,Pump,Pasteurization,Hot water circulation pump
+3,PUMP003,Pump,Utility,CIP return pump
+4,HEATEXCHANGER001,Heat Exchanger,Pasteurization,Plate heat exchanger
+5,REGENERATIVEHX001,Regenerative HX,Pasteurization,Regenerative heat exchanger
+6,CIPSYSTEM001,CIP System,Cleaning,Automated clean-in-place system
+7,CIPSKID001,CIP Skid,Cleaning,Modular CIP skid
+8,HOMOGENIZER001,Homogenizer,Processing,High-pressure milk homogenizer
+9,HIGHPRESSUREPUMP001,High Pressure Pump,Homogenization,Pump feeding homogenizer
+10,SEPARATOR001,Separator,Processing,Cream separator
+11,BACTOFUGE001,Bactofuge,Processing,Bactofuge separator for bacteria removal
+12,FILTER001,Filter,Processing,Milk particulate filter
+13,MICROFILTER001,Microfilter,Processing,Membrane microfiltration skid
+14,VALVE001,Valve,Utility,Stainless steel shutoff valve
+15,VALVE002,Valve,Utility,Pneumatic valve for CIP
+16,COMPRESSOR001,Compressor,Refrigeration,Ammonia compressor for cooling
+17,AIRCOMPRESSOR001,Air Compressor,Utility,Plant compressed air system
+18,CHILLER001,Chiller,Refrigeration,Chilled water system
+19,COOLINGTOWER001,Cooling Tower,Refrigeration,Cooling tower for condenser water
+20,TANK001,Tank,Storage,Raw milk storage tank
+21,SILO001,Silo,Storage,Raw milk silo
+22,BALANCETANK001,Balance Tank,Pasteurization,Balance tank for HTST
+23,FERMENTATIONTANK001,Fermentation Tank,Fermentation,Culture fermentation vessel
+24,AGITATOR001,Agitator,Fermentation,Tank agitator for culture mixing
+25,SPRAYDRYER001,Spray Dryer,Drying,Spray dryer for milk powder
+26,FLUIDBEDDRYER001,Fluid Bed Dryer,Drying,Fluid bed dryer for powders
+27,EVAPORATOR001,Evaporator,Evaporation,Falling film evaporator
+28,CHEESEVAT001,Cheese Vat,Cheese,Curd cooking and stirring vat
+29,CHEESEPRESS001,Cheese Press,Cheese,Curd molding and pressing machine
+30,BOTTLEFILLER001,Bottle Filler,Packaging,Automated bottle filling machine
+31,POUCHFILLER001,Pouch Filler,Packaging,Pouch packaging machine
+32,CARTONFILLER001,Carton Filler,Packaging,Carton filling line
+33,LABELINGMACHINE001,Labeling Machine,Packaging,Automated labeling line
+34,CAPPER001,Capper,Packaging,Capping machine
+35,CONVEYOR001,Conveyor,Packaging,Product conveyor
+36,CASEPACKER001,Case Packer,Packaging,Automated case packing
+37,PALLETIZER001,Palletizer,Packaging,Automated palletizer
+38,METALDETECTOR001,Metal Detector,Packaging,Inline metal detection
+39,X-RAYINSPECTOR001,X-Ray Inspector,Packaging,Inline X-ray inspection
+40,BOILER001,Boiler,Steam,Steam generation boiler
+41,STEAMTRAP001,Steam Trap,Steam,Condensate removal steam trap
+42,CONDENSATERETURN001,Condensate Return,Steam,Condensate return unit
+43,WATERSOFTENER001,Water Softener,Utilities,Boiler feed water softener
+44,ROSYSTEM001,RO System,Utilities,Reverse osmosis water system
+45,CENTRIFUGE001,Centrifuge,Processing,Centrifugal clarifier
+46,CARTONER001,Cartoner,Packaging,Cartoning machine
+47,STRETCHWRAPPER001,Stretch Wrapper,Packaging,Stretch wrap machine
+48,INKJETCODER001,Inkjet Coder,Packaging,Date code printer
+49,WEIGHER001,Weigher,Packaging,Checkweigher scale
+50,PUMP004,Pump,Milk Reception,Centrifugal milk transfer pump
+51,PUMP005,Pump,Pasteurization,Hot water circulation pump
+52,PUMP006,Pump,Utility,CIP return pump
+53,HEATEXCHANGER002,Heat Exchanger,Pasteurization,Plate heat exchanger
+54,REGENERATIVEHX002,Regenerative HX,Pasteurization,Regenerative heat exchanger
+55,CIPSYSTEM002,CIP System,Cleaning,Automated clean-in-place system
+56,CIPSKID002,CIP Skid,Cleaning,Modular CIP skid
+57,HOMOGENIZER002,Homogenizer,Processing,High-pressure milk homogenizer
+58,HIGHPRESSUREPUMP002,High Pressure Pump,Homogenization,Pump feeding homogenizer
+59,SEPARATOR002,Separator,Processing,Cream separator
+60,BACTOFUGE002,Bactofuge,Processing,Bactofuge separator for bacteria removal
+61,FILTER002,Filter,Processing,Milk particulate filter
+62,MICROFILTER002,Microfilter,Processing,Membrane microfiltration skid
+63,VALVE003,Valve,Utility,Stainless steel shutoff valve
+64,VALVE004,Valve,Utility,Pneumatic valve for CIP
+65,COMPRESSOR002,Compressor,Refrigeration,Ammonia compressor for cooling
+66,AIRCOMPRESSOR002,Air Compressor,Utility,Plant compressed air system
+67,CHILLER002,Chiller,Refrigeration,Chilled water system
+68,COOLINGTOWER002,Cooling Tower,Refrigeration,Cooling tower for condenser water
+69,TANK002,Tank,Storage,Raw milk storage tank
+70,SILO002,Silo,Storage,Raw milk Silo
+71,SILO003,Silo,Storage,Raw Milk Transfer
