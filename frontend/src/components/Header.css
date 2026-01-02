@@ -1,4 +1,4 @@
-.app-header {
+/* .app-header {
   position: sticky;
   top: 0;
   height: 60px;
@@ -20,4 +20,55 @@
 .title h2 {
   margin: 0;
   font-weight: 500;
+} */
+.app-header {
+  height: 60px;
+  background: #ffffff;
+  border-bottom: 1px solid #ddd;
+  padding: 0 20px;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+.actions {
+  position: relative;
+}
+
+.add-btn {
+  padding: 8px 14px;
+  background: #1976d2;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.add-btn:hover {
+  background: #135ba1;
+}
+
+.dropdown {
+  position: absolute;
+  right: 0;
+  top: 40px;
+  background: white;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  width: 180px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+}
+
+.dropdown div {
+  padding: 10px;
+  cursor: pointer;
+}
+
+.dropdown div:hover {
+  background: #f0f0f0;
 }
