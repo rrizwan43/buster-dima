@@ -47,16 +47,15 @@
   justify-content: center;
   align-items: flex-start;
   padding-top: 40px;
-
-  z-index: 9999;   /* 🔥 ADD / ENSURE THIS */
+  z-index: 2000;
 }
 
-
 .modal-box {
-  background: white;
+  background: black;
   padding: 20px;
   width: 400px;
   border-radius: 6px;
+  border : 2px solid #1976d2
 }
 
 .modal-box input,
@@ -70,4 +69,93 @@
   display: flex;
   justify-content: flex-end;
   gap: 10px;
+}
+
+/* Floating panel overlay */
+.panel-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.25);
+  z-index: 9000;
+}
+
+/* Floating panel (NYC-style drawer) */
+.panel {
+  position: fixed;
+  top: 60px; /* below header */
+  right: 0;
+  width: 420px;
+  height: calc(100vh - 60px);
+  background: #ffffff;
+  box-shadow: -8px 0 24px rgba(0,0,0,0.15);
+  z-index: 10000;
+
+  display: flex;
+  flex-direction: column;
+}
+.panel {
+  border-left: 2px solid #1976d2;
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+}
+
+
+/* Panel header */
+.panel-header {
+  padding: 16px;
+  font-size: 18px;
+  font-weight: 600;
+  border-bottom: 1px solid #eee;
+}
+
+/* Panel body (scrollable) */
+.panel-body {
+  padding: 16px;
+  overflow-y: auto;
+  flex: 1;
+}
+
+/* Inputs */
+.panel-body input,
+.panel-body textarea,
+.panel-body select {
+  width: 100%;
+  margin-bottom: 12px;
+  padding: 10px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  font-size: 14px;
+}
+
+/* Footer */
+.panel-footer {
+  padding: 12px 16px;
+  border-top: 1px solid #eee;
+  display: flex;
+  justify-content: flex-end;
+  gap: 10px;
+}
+
+/* Buttons */
+.panel-footer button {
+  padding: 8px 14px;
+  border-radius: 6px;
+  border: none;
+  cursor: pointer;
+}
+
+.panel-footer .primary {
+  background: #1976d2;
+  color: white;
+}
+
+.panel-footer .secondary {
+  background: #e0e0e0;
+}
+
+.panel-body input:focus,
+.panel-body textarea:focus,
+.panel-body select:focus {
+  outline: none;
+  border-color: #1976d2;
 }

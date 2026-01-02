@@ -204,7 +204,8 @@ export default function HierarchyChart() {
   }, [expanded]);
 
   return (
-    <div style={{ width: "100%", height: "100vh", position: "relative",zIndex:1 }}>
+    // <div style={{ width: "100%", height: "80vh", position: "relative",zIndex:1 }}>
+    <div style={{ width: "100%", height: "75vh" }}>
       <Tree
         data={treeData}
         orientation="vertical"
