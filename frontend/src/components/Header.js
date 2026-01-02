@@ -28,7 +28,7 @@ export default function Header({ onAdd }) {
   return (
     <div className="app-header">
       <div className="logo">
-        <h3>BUSTER DIMA</h3>
+        <h3>Asset Insight Platform</h3>
       </div>
 
       <div className="actions">
